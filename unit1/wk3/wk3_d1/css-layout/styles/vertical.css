@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ccc;
+  height: 100vh;
+  color: #fff;
+  font-family: sans-serif;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap-reverse;
+  align-content: center;
+}
+
+div {
+  background-color: #ff1493;
+  font-size: 2rem; 
+  margin: auto;
+}
